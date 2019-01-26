@@ -16,7 +16,7 @@ python -m pip install bs4
 python -m pip install zipfile
 python -m pip install progressbar
 python -m pip install pickle
-
+python -m pip install -r requirements.txt
 ```
 
 ### Installing
